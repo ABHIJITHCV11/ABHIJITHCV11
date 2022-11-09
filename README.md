@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABHIJITHCV11
-- ⚡ I love math, programming, data science, and games.
+- ⚡ I love math, programming, data science,hosting events and games.
 - 🌱 I'm pursuing MSc in Data Science from LJMU.
 - 📫 Learn more about me on:
   - [🏢 LinkedIn](https://www.linkedin.com/in/abhijith-cv-3bb896220) 
