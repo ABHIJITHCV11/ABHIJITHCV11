@@ -1,6 +1,9 @@
 👋 Hi, I’m @ABHIJITHCV11
+
 💻 Currently working as a Data Engineer at Clear (formerly ClearTax)
+
 ⚡ I love math, programming, problem solving, hosting events, and games.
+
 🎓 Completed my MSc in Data Science from Liverpool John Moores University (LJMU)
 - 📫 Learn more about me on:
   - [🏢 LinkedIn](https://www.linkedin.com/in/abhijith-cv-3bb896220) 
